@@ -1,5 +1,5 @@
-# soap-jax-ws-spring-java
-Ejemplo de creacion de un cliente para consumir un servicio por soap.
+# soa-jax-ws-spring-java
+Ejemplo de creacion de un cliente para consumir un servicio por soa.
 
 Se utiliza para mapear las clases la api de java JAX-WS (https://jax-ws.java.net/)
 
@@ -13,7 +13,7 @@ verificar los diferentes comandos en la ayuda
 
 -------------------
 
-Example of creating a client to consume a service for soap.
+Example of creating a client to consume a service for soa.
 
 It is used to map the Java API classes JAX-WS (https://jax-ws.java.net/)
 
