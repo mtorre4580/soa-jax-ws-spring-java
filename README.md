@@ -1,17 +1,4 @@
 # soa-jax-ws-spring-java
-Ejemplo de creacion de un cliente para consumir un servicio por soa.
-
-Se utiliza para mapear las clases la api de java JAX-WS (https://jax-ws.java.net/)
-
-Comando para mapear las clases desde el wsdl de un servicio, como ejemplo utilize el del clima
-
-http://www.webservicex.com/globalweather.asmx?WSDL
-
-wsimport -keep -verbose C:\Program Files\Java\jdk1.6.0_21\bin\globalweather.asmx.wsdl
-
-verificar los diferentes comandos en la ayuda
-
--------------------
 
 Example of creating a client to consume a service for soa.
 
